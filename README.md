@@ -4,11 +4,11 @@ Very basic, but fully functional. Feel free to build upon it, or refer to it as 
 
 ---
 
-<img src="assets/LexicalAnalyzer.png" alt="Lexical Analyzer" width="400">
+<img src="assets/LexicalAnalyzer.png" alt="Lexical Analyzer" width="600">
 
 ---
 
-Instructions:
-compile example: `javac MainUpload.java`
-move decompiled files: `./move_decompiled.sh`
-run example: `java -cp decompiled MainUpload.java`
+Instructions:  
+compile example: `javac MainUpload.java`  
+move decompiled files: `./move_decompiled.sh`  
+run example: `java -cp decompiled MainUpload.java`  
