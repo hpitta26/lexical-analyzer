@@ -1,0 +1,14 @@
+int main() {
+    int a = 5;
+    int b = 10;
+    int sum = a + b;
+    int diff = b - a;
+    int prod = a * b; // some comment
+    int quot = b / a;
+    int mod = b % a;
+
+    int x = 0;
+    while (x<=10) {
+        x++;
+    }
+}
