@@ -1,6 +1,8 @@
-CLite Lexical Analyzer built for COP 4555 (Principles of Programming Langs)
+CLite Lexical Analyzer built for COP 4555 (Principles of Programming Langs) using Swing
 
-Very basic, but fully functional. Feel free to build upon it, or refer to it as an example.
+Very basic, but fully functional. Feel free to build upon it, or refer to it as an example.  
+
+If this does help consider staring the repo so that more people can find this example in the future 😊
 
 ---
 
