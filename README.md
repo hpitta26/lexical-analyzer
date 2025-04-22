@@ -11,6 +11,7 @@ If this does help consider staring the repo so that more people can find this ex
 ---
 
 Instructions:  
+clone the repo in terminal: `git clone https://github.com/hpitta26/lexical-analyzer.git`
 compile example: `javac MainUpload.java`  
 move decompiled files: `./move_decompiled.sh`  
 run example: `java -cp decompiled MainUpload.java`  
