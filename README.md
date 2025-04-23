@@ -10,17 +10,17 @@ If this does help consider staring the repo so that more people can find this ex
 
 ---
 
-Instructions:  
+### Instructions:  
+
 clone the repo: `git clone https://github.com/hpitta26/lexical-analyzer.git`  
 compile example: `javac MainGUIUpload.java`  
   
-move decompiled files:  
+move decompiled files (not required, only to unclutter src):  
 `./move_decompiled.sh` (Unix, Linux, MacOS, WSL, Bash)   
 `move_decompiled.bat` (Windows Command Prompt)  
 `move_decompiled.ps1` (Windows PowerShell)   
   
-run example: `java -cp decompiled MainGUIUpload`  
+run example (with moving): `java -cp decompiled MainGUIUpload`  
+run example (without moving): `java MainGUIUpload`  
 
 ---
-PS the scripts are just to keep the src directory clean (you don't need to run them)  
-If you choose not to run them, just run `java MainGUIUpload`
