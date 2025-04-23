@@ -22,5 +22,3 @@ move decompiled files (not required, only to unclutter src):
   
 run example (with moving): `java -cp decompiled MainGUIUpload`  
 run example (without moving): `java MainGUIUpload`  
-
----
