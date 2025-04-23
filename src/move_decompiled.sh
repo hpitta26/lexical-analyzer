@@ -1,3 +1,4 @@
+# Unix, Linux, MacOS, WSL, Bash
 DECOMPILED_DIR="decompiled"
 
 mkdir -p "$DECOMPILED_DIR"
